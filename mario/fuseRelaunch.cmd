@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Xilinx/VGA_Project/displayTEST_isim_beh.exe" -prj "C:/Xilinx/VGA_Project/displayTEST_beh.prj" "work.displayTEST" "work.glbl" 

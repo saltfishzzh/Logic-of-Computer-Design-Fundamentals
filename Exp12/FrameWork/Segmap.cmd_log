@@ -1,0 +1,4 @@
+vhdtdtfi -lib work E:/code/Verilog/FrameWork/Segmap.v -lang verilog -prj FrameWork -o Segmap.spl -module Segmap -template D:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 Segmap.spl E:/code/Verilog/FrameWork/Segmap.sym 
+vhdtdtfi -lib work E:/code/Verilog/FrameWork/Segmap.v -lang verilog -prj FrameWork -o Segmap.spl -module Segmap -template D:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 Segmap.spl E:/code/Verilog/FrameWork/Segmap.sym 

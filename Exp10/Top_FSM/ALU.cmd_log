@@ -1,0 +1,4 @@
+vhdtdtfi -lib work {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp8/Framework_ALU/ALU.v} -lang verilog -prj Framework -o ALU.spl -module ALU -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 ALU.spl {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp8/Framework_ALU/ALU.sym} 
+vhdtdtfi -lib work C:/Users/CST/Desktop/Exp8/Exp8/Framework_ALU/ALU.v -lang verilog -prj Framework -o ALU.spl -module ALU -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 ALU.spl C:/Users/CST/Desktop/Exp8/Exp8/Framework_ALU/ALU.sym 

@@ -1,0 +1,2 @@
+sch2hdl -intstyle ise -family kintex7 -verilog RS_Trig_drc.vf -w C:/Users/CST/Desktop/Exp9/RS_Trigger/RS_Trig.sch 
+sch2sym -intstyle ise -family kintex7 -refsym RS_Trig C:/Users/CST/Desktop/Exp9/RS_Trigger/RS_Trig.sch C:/Users/CST/Desktop/Exp9/RS_Trigger/RS_Trig.sym 

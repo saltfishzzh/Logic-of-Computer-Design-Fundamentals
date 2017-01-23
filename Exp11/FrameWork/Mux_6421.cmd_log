@@ -1,0 +1,2 @@
+vhdtdtfi -lib work E:/code/Verilog/FrameWork/SSeg_7withGraph.v -lang verilog -prj FrameWork -o Mux_6421.spl -module Mux_6421 -template D:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 Mux_6421.spl E:/code/Verilog/FrameWork/Mux_6421.sym 

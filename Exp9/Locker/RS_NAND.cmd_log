@@ -1,0 +1,2 @@
+sch2hdl -intstyle ise -family kintex7 -verilog RS_NAND_drc.vf -w {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Locker/RS_NAND.sch} 
+sch2sym -intstyle ise -family kintex7 -refsym RS_NAND {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Locker/RS_NAND.sch} {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Locker/RS_NAND.sym} 

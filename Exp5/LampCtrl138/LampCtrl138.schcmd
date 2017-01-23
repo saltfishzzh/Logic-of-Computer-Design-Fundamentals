@@ -1,0 +1,17 @@
+select figure at 2667 1013 8 -branches -sn=1
+select figure at 2546 1087 8 -branches -sn=1
+select figure at 2496 1110 8 -branches -sn=1
+select figure at 2345 894 8 -branches -sn=1
+select all in 2345 894 2528 1105 -branches -enclosed -sn=1
+select figure at 2449 1002 8 -branches -sn=1
+delete selection -sn=1
+add autowire 2336 992 2560 992 8 -sn=1
+select figure at 2613 984 8 -branches -sn=1
+move iomarker at 2592 992 to 2384 992 R0 -keepConn -sn=1
+select figure at 2534 977 8 -branches -sn=1
+select figure at 1443 1175 8 -branches -sn=1
+select all in 1443 1175 2786 1792 -branches -enclosed -sn=1
+move selection by 0 112 -keepConn -sn=1
+select figure at 2129 1215 8 -branches -sn=1
+select figure at 2287 1497 8 -branches -sn=1
+select all in 2185 1497 2287 1512 -branches -enclosed -sn=1

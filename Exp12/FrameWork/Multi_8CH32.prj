@@ -1,0 +1,4 @@
+verilog work "Mux441_LSH.vf"
+verilog work "Mux881_LSH.vf"
+verilog work "Mux32881_LSH.vf"
+verilog work "Multi_8CH32.v"

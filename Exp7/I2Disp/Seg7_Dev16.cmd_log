@@ -1,0 +1,10 @@
+sch2sym -intstyle ise -family kintex7 -refsym Seg7_Dev16 {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/I2Disp/Seg7_Dev16.sch} {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/I2Disp/Seg7_Dev16.sym} 
+sch2hdl -intstyle ise -family kintex7 -verilog Seg7_Dev16_drc.vf -w {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/I2Disp/Seg7_Dev16.sch} 
+sch2hdl -intstyle ise -family kintex7 -verilog Seg7_Dev16_drc.vf -w {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/I2Disp/Seg7_Dev16.sch} 
+sch2sym -intstyle ise -family kintex7 -refsym Seg7_Dev16 {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/I2Disp/Seg7_Dev16.sch} {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/I2Disp/Seg7_Dev16.sym} 
+sch2sym -intstyle ise -family kintex7 -refsym Seg7_Dev16 {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/I2Disp/Seg7_Dev16.sch} {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/I2Disp/Seg7_Dev16.sym} 
+sch2hdl -intstyle ise -family kintex7 -verilog Seg7_Dev16_drc.vf -w C:/Users/CST/Desktop/Exp7/I2Disp/Seg7_Dev16.sch 
+sch2sym -intstyle ise -family kintex7 -refsym Seg7_Dev16 C:/Users/CST/Desktop/Exp7/I2Disp/Seg7_Dev16.sch C:/Users/CST/Desktop/Exp7/I2Disp/Seg7_Dev16.sym 
+sch2sym -intstyle ise -family kintex7 -refsym Seg7_Dev16 C:/Users/CST/Desktop/Exp7/I2Disp/Seg7_Dev16.sch C:/Users/CST/Desktop/Exp7/I2Disp/Seg7_Dev16.sym 
+sch2sym -intstyle ise -family kintex7 -refsym Seg7_Dev16 C:/Users/CST/Desktop/Exp7/I2Disp/Seg7_Dev16.sch C:/Users/CST/Desktop/Exp7/I2Disp/Seg7_Dev16.sym 
+sch2sym -intstyle ise -family kintex7 -refsym Seg7_Dev16 C:/Users/CST/Desktop/Exp7/I2Disp/Seg7_Dev16.sch C:/Users/CST/Desktop/Exp7/I2Disp/Seg7_Dev16.sym 

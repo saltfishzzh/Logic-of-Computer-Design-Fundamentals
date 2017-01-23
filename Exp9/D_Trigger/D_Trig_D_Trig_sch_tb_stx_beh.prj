@@ -1,0 +1,6 @@
+verilog isim_temp "RS_NAND.vf"
+verilog isim_temp "RS_EN.vf"
+verilog isim_temp "D_EN.vf"
+verilog isim_temp "D_Trig.vf"
+verilog isim_temp "D_Trig_Test.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

@@ -1,0 +1,12 @@
+sch2hdl -intstyle ise -family kintex7 -verilog MUX8T1_8_drc.vf -w {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/ExMUX/MUX8T1_8.sch} 
+sch2hdl -intstyle ise -family kintex7 -verilog MUX8T1_8_drc.vf -w {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/ExMUX/MUX8T1_8.sch} 
+sch2hdl -intstyle ise -family kintex7 -verilog MUX8T1_8_drc.vf -w {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/ExMUX/MUX8T1_8.sch} 
+sch2hdl -intstyle ise -family kintex7 -verilog MUX8T1_8_drc.vf -w {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/ExMUX/MUX8T1_8.sch} 
+sch2sym -intstyle ise -family kintex7 -refsym MUX8T1_8 {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/ExMUX/MUX8T1_8.sch} {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/ExMUX/MUX8T1_8.sym} 
+sch2hdl -intstyle ise -family kintex7 -verilog MUX8T1_8_drc.vf -w {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/ExMUX/MUX8T1_8.sch} 
+sch2hdl -intstyle ise -family kintex7 -verilog MUX8T1_8_drc.vf -w {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/ExMUX/MUX8T1_8.sch} 
+sch2hdl -intstyle ise -family kintex7 -verilog MUX8T1_8_drc.vf -w {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/ExMUX/MUX8T1_8.sch} 
+sch2sym -intstyle ise -family kintex7 -refsym MUX8T1_8 {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/ExMUX/MUX8T1_8.sch} {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/ExMUX/MUX8T1_8.sym} 
+sch2sym -intstyle ise -family kintex7 -refsym MUX8T1_8 {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/ExMUX/MUX8T1_8.sch} {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/ExMUX/MUX8T1_8.sym} 
+sch2sym -intstyle ise -family kintex7 -refsym MUX8T1_8 {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/ExMUX/MUX8T1_8.sch} {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/ExMUX/MUX8T1_8.sym} 
+sch2hdl -intstyle ise -family kintex7 -verilog MUX8T1_8_drc.vf -w {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/ExMUX/MUX8T1_8.sch} 

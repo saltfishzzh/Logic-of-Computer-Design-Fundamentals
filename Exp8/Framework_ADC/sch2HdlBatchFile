@@ -1,0 +1,3 @@
+sch2hdl,-intstyle,ise,-family,kintex7,-verilog,C:/Users/CST/Desktop/Framework_ADC/MUX8T1_8.vf,-w,C:/Users/CST/Desktop/Framework_ADC/MUX8T1_8.sch
+sch2hdl,-intstyle,ise,-family,kintex7,-verilog,C:/Users/CST/Desktop/Framework_ADC/Framework.vf,-w,C:/Users/CST/Desktop/Framework_ADC/Framework.sch
+sch2hdl,-intstyle,ise,-family,kintex7,-verilog,C:/Users/CST/Desktop/Framework_ADC/MUX8T1_32.vf,-w,C:/Users/CST/Desktop/Framework_ADC/MUX8T1_32.sch

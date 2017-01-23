@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Documents and Settings/Administrator/My Documents/3150102418/Exp5/Lamp138/Lamp138_isim_beh.exe" -prj "C:/Documents and Settings/Administrator/My Documents/3150102418/Exp5/Lamp138/Lamp138_beh.prj" "work.Lamp138" "work.glbl" 

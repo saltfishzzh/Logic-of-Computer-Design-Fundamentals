@@ -1,0 +1,4 @@
+vhdtdtfi -lib work {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Trig3/clkdiv.v} -lang verilog -prj Trig -o clkdiv.spl -module clkdiv -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 clkdiv.spl {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Trig3/clkdiv.sym} 
+vhdtdtfi -lib work {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Trig3/clkdiv.v} -lang verilog -prj Trig -o clkdiv.spl -module clkdiv -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 clkdiv.spl {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Trig3/clkdiv.sym} 

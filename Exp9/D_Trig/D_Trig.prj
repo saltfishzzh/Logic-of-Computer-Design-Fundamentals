@@ -1,0 +1,4 @@
+verilog work "RS_NAND.vf"
+verilog work "RS_EN.vf"
+verilog work "D_EN.vf"
+verilog work "D_Trig.vf"

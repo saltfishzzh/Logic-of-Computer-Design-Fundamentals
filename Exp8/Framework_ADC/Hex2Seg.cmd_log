@@ -1,0 +1,2 @@
+vhdtdtfi -lib work {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/Framework/Hex2Seg.v} -lang verilog -prj Framework -o Hex2Seg.spl -module Hex2Seg -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 Hex2Seg.spl {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/Framework/Hex2Seg.sym} 

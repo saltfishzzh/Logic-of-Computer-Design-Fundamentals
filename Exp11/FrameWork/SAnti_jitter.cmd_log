@@ -1,0 +1,2 @@
+vhdtdtfi -lib work E:/code/Verilog/FrameWork/SAnti_jitter_IO.v -lang verilog -prj FrameWork -o SAnti_jitter.spl -module SAnti_jitter -template D:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 SAnti_jitter.spl E:/code/Verilog/FrameWork/SAnti_jitter.sym 

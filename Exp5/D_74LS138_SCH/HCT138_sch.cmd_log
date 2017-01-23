@@ -1,0 +1,6 @@
+sch2hdl -intstyle ise -family kintex7 -verilog HCT138_sch.vf -w C:/Users/laylalaisy/Desktop/5/D_74LS138_SCH/HCT138_sch.sch 
+sch2sym -intstyle ise -family kintex7 -refsym HCT138_sch C:/Users/laylalaisy/Desktop/5/D_74LS138_SCH/HCT138_sch.sch C:/Users/laylalaisy/Desktop/5/D_74LS138_SCH/HCT138_sch.sym 
+xst -intstyle ise -ifn "C:/Users/laylalaisy/Desktop/5/D_74LS138_SCH/HCT138_sch.xst" -ofn "C:/Users/laylalaisy/Desktop/5/D_74LS138_SCH/HCT138_sch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7k160t-ffg676-1 HCT138_sch.ngc HCT138_sch.ngd  
+sch2sym -intstyle ise -family kintex7 -refsym HCT138_sch C:/Users/laylalaisy/Desktop/5/D_74LS138_SCH/HCT138_sch.sch C:/Users/laylalaisy/Desktop/5/D_74LS138_SCH/HCT138_sch.sym 
+sch2hdl -intstyle ise -family kintex7 -verilog HCT138_sch_drc.vf -w C:/Users/laylalaisy/Desktop/5/D_74LS138_SCH/HCT138_sch.sch 

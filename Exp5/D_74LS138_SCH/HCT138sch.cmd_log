@@ -1,0 +1,20 @@
+sch2hdl -intstyle ise -family kintex7 -verilog HCT138sch_drc.vf -w C:/Users/laylalaisy/Desktop/5/D_74LS138_SCH/HCT138sch.sch 
+xst -intstyle ise -ifn "C:/Users/laylalaisy/Desktop/5/D_74LS138_SCH/HCT138sch.xst" -ofn "C:/Users/laylalaisy/Desktop/5/D_74LS138_SCH/HCT138sch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7k160t-ffg676-1 HCT138sch.ngc HCT138sch.ngd  
+map -intstyle ise -p xc7k160t-ffg676-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o HCT138sch_map.ncd HCT138sch.ngd HCT138sch.pcf 
+par -w -intstyle ise -ol high -mt off HCT138sch_map.ncd HCT138sch.ncd HCT138sch.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml HCT138sch.twx HCT138sch.ncd -o HCT138sch.twr HCT138sch.pcf 
+bitgen -intstyle ise -f HCT138sch.ut HCT138sch.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc HCT138.ucf -p xc7k160t-ffg676-1 HCT138sch.ngc HCT138sch.ngd  
+xst -intstyle ise -ifn "C:/Users/laylalaisy/Desktop/5/D_74LS138_SCH/HCT138sch.xst" -ofn "C:/Users/laylalaisy/Desktop/5/D_74LS138_SCH/HCT138sch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc HCT138.ucf -p xc7k160t-ffg676-1 HCT138sch.ngc HCT138sch.ngd  
+xst -intstyle ise -ifn "C:/Users/laylalaisy/Desktop/5/D_74LS138_SCH/HCT138sch.xst" -ofn "C:/Users/laylalaisy/Desktop/5/D_74LS138_SCH/HCT138sch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc HCT138.ucf -p xc7k160t-ffg676-1 HCT138sch.ngc HCT138sch.ngd  
+xst -intstyle ise -ifn "C:/Users/laylalaisy/Desktop/5/D_74LS138_SCH/HCT138sch.xst" -ofn "C:/Users/laylalaisy/Desktop/5/D_74LS138_SCH/HCT138sch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc HCT138.ucf -p xc7k160t-ffg676-1 HCT138sch.ngc HCT138sch.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc HCT138.ucf -p xc7k160t-ffg676-1 HCT138sch.ngc HCT138sch.ngd  
+map -intstyle ise -p xc7k160t-ffg676-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o HCT138sch_map.ncd HCT138sch.ngd HCT138sch.pcf 
+par -w -intstyle ise -ol high -mt off HCT138sch_map.ncd HCT138sch.ncd HCT138sch.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml HCT138sch.twx HCT138sch.ncd -o HCT138sch.twr HCT138sch.pcf -ucf HCT138.ucf 
+bitgen -intstyle ise -f HCT138sch.ut HCT138sch.ncd 
+sch2sym -intstyle ise -family kintex7 -refsym HCT138sch C:/Users/laylalaisy/Desktop/5/D_74LS138_SCH/HCT138sch.sch C:/Users/laylalaisy/Desktop/5/D_74LS138_SCH/HCT138sch.sym 

@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Documents and Settings\Administrator\My Documents\3150102418\ISE Piggy\Piggy\Top.ncd
+OUTFILE=C:\Documents and Settings\Administrator\My Documents\3150102418\ISE Piggy\Piggy\Top.bit
+FAMILY=Artix7
+PART=xc7a100t-1csg324
+WORKINGDIR=C:\Documents and Settings\Administrator\My Documents\3150102418\ISE Piggy\Piggy
+LICENSE=WebPack
+USER_INFO=__0_0_0

@@ -1,0 +1,39 @@
+////////////////////////////////////////////////////////////////////////////////
+// Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+////////////////////////////////////////////////////////////////////////////////
+//   ____  ____ 
+//  /   /\/   / 
+// /___/  \  /    Vendor: Xilinx 
+// \   \   \/     Version : 14.7
+//  \   \         Application : sch2hdl
+//  /   /         Filename : HCT138_sch_drc.vf
+// /___/   /\     Timestamp : 11/02/2016 14:58:39
+// \   \  /  \ 
+//  \___\/\___\ 
+//
+//Command: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\sch2hdl.exe -intstyle ise -family kintex7 -verilog HCT138_sch_drc.vf -w C:/Users/laylalaisy/Desktop/5/D_74LS138_SCH/HCT138_sch.sch
+//Design Name: HCT138_sch
+//Device: kintex7
+//Purpose:
+//    This verilog netlist is translated from an ECS schematic.It can be 
+//    synthesized and simulated, but it should not be modified. 
+//
+`timescale 1ns / 1ps
+
+module HCT138_sch(G, 
+                  G2A, 
+                  G2B);
+
+    input G;
+    input G2A;
+    input G2B;
+   
+   wire XLXN_60;
+   
+   INV  XLXI_16 (.I(G), 
+                .O(XLXN_60));
+   NOR3  XLXI_17 (.I0(G2B), 
+                 .I1(G2A), 
+                 .I2(XLXN_60), 
+                 .O());
+endmodule

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Users\CST\Desktop\Exp9\D_Trigger\Top_D_Trig.vf" Line 140: Assignment to <arg fmt="%s" index="1">G0</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="Xst" num="2170" delta="old" >Unit <arg fmt="%s" index="1">Top_D_Trig</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+</messages>
+

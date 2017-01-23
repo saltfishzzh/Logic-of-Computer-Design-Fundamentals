@@ -1,0 +1,12 @@
+xst -intstyle ise -ifn "E:/Lamp138/Lamp138.xst" -ofn "E:/Lamp138/Lamp138.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Lamp138.ucf -p xc7k160t-ffg676-2L Lamp138.ngc Lamp138.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Lamp138.ucf -p xc7k160t-ffg676-2L "Lamp138.ngc" Lamp138.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Lamp138.ucf -p xc7k160t-ffg676-2L "Lamp138.ngc" Lamp138.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Lamp138.ucf -p xc7k160t-ffg676-2L "Lamp138.ngc" Lamp138.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Lamp138.ucf -p xc7k160t-ffg676-2L "Lamp138.ngc" Lamp138.ngd  
+map -intstyle ise -p xc7k160t-ffg676-2L -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Lamp138_map.ncd Lamp138.ngd Lamp138.pcf 
+par -w -intstyle ise -ol high -mt off Lamp138_map.ncd Lamp138.ncd Lamp138.pcf 
+trce -intstyle ise -v 3 -s 2L -n 3 -fastpaths -xml Lamp138.twx Lamp138.ncd -o Lamp138.twr Lamp138.pcf -ucf Lamp138.ucf 
+bitgen -intstyle ise -f Lamp138.ut Lamp138.ncd 
+sch2hdl -intstyle ise -family kintex7 -verilog Lamp138_drc.vf -w {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp5/Lamp138/Lamp138.sch} 
+sch2sym -intstyle ise -family kintex7 -refsym Lamp138 {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp5/Lamp138/Lamp138.sch} {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp5/Lamp138/Lamp138.sym} 

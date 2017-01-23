@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Documents and Settings/Administrator/My Documents/3150102418/FSM/Counter4b_Counter4b_sch_tb_isim_beh.exe" -prj "C:/Documents and Settings/Administrator/My Documents/3150102418/FSM/Counter4b_Counter4b_sch_tb_beh.prj" "work.Counter4b_Counter4b_sch_tb" "work.glbl" 

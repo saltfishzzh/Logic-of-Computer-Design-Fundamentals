@@ -1,0 +1,2 @@
+vhdtdtfi -lib work {C:/Documents and Settings/Administrator/My Documents/3150102418/MC14495_ZJU138/clkdiv.v} -lang verilog -prj MC14495_ZJU138 -o clkdiv.spl -module clkdiv -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 clkdiv.spl {C:/Documents and Settings/Administrator/My Documents/3150102418/MC14495_ZJU138/clkdiv.sym} 

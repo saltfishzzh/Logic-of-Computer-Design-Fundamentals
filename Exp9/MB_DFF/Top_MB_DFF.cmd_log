@@ -1,0 +1,20 @@
+sch2hdl -intstyle ise -family kintex7 -verilog Top_MB_DFF_drc.vf -w {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/MB_DFF/Top_MB_DFF.sch} 
+xst -intstyle ise -ifn "C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/MB_DFF/Top_MB_DFF.xst" -ofn "C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/MB_DFF/Top_MB_DFF.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc k7.ucf -p xc7k160t-ffg676-2L "Top_MB_DFF.ngc" Top_MB_DFF.ngd  
+map -intstyle ise -p xc7k160t-ffg676-2L -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_MB_DFF_map.ncd Top_MB_DFF.ngd Top_MB_DFF.pcf 
+par -w -intstyle ise -ol high -mt off Top_MB_DFF_map.ncd Top_MB_DFF.ncd Top_MB_DFF.pcf 
+trce -intstyle ise -v 3 -s 2L -n 3 -fastpaths -xml Top_MB_DFF.twx Top_MB_DFF.ncd -o Top_MB_DFF.twr Top_MB_DFF.pcf -ucf k7.ucf 
+bitgen -intstyle ise -f Top_MB_DFF.ut Top_MB_DFF.ncd 
+xst -intstyle ise -ifn "C:/Users/CST/Desktop/Exp9/MB_DFF/Top_MB_DFF.xst" -ofn "C:/Users/CST/Desktop/Exp9/MB_DFF/Top_MB_DFF.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc k7.ucf -p xc7k160t-ffg676-2L Top_MB_DFF.ngc Top_MB_DFF.ngd  
+map -intstyle ise -p xc7k160t-ffg676-2L -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_MB_DFF_map.ncd Top_MB_DFF.ngd Top_MB_DFF.pcf 
+par -w -intstyle ise -ol high -mt off Top_MB_DFF_map.ncd Top_MB_DFF.ncd Top_MB_DFF.pcf 
+trce -intstyle ise -v 3 -s 2L -n 3 -fastpaths -xml Top_MB_DFF.twx Top_MB_DFF.ncd -o Top_MB_DFF.twr Top_MB_DFF.pcf -ucf k7.ucf 
+bitgen -intstyle ise -f Top_MB_DFF.ut Top_MB_DFF.ncd 
+xst -intstyle ise -ifn "C:/Users/CST/Desktop/Exp9/MB_DFF/Top_MB_DFF.xst" -ofn "C:/Users/CST/Desktop/Exp9/MB_DFF/Top_MB_DFF.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc k7.ucf -p xc7k160t-ffg676-2L Top_MB_DFF.ngc Top_MB_DFF.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc k7.ucf -p xc7k160t-ffg676-2L Top_MB_DFF.ngc Top_MB_DFF.ngd  
+map -intstyle ise -p xc7k160t-ffg676-2L -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_MB_DFF_map.ncd Top_MB_DFF.ngd Top_MB_DFF.pcf 
+par -w -intstyle ise -ol high -mt off Top_MB_DFF_map.ncd Top_MB_DFF.ncd Top_MB_DFF.pcf 
+trce -intstyle ise -v 3 -s 2L -n 3 -fastpaths -xml Top_MB_DFF.twx Top_MB_DFF.ncd -o Top_MB_DFF.twr Top_MB_DFF.pcf -ucf k7.ucf 
+bitgen -intstyle ise -f Top_MB_DFF.ut Top_MB_DFF.ncd 

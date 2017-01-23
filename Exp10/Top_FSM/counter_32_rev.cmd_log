@@ -1,0 +1,4 @@
+vhdtdtfi -lib work {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp10/Top_FSM/Counter32bitrev.v} -lang verilog -prj Framework -o counter_32_rev.spl -module counter_32_rev -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 counter_32_rev.spl {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp10/Top_FSM/counter_32_rev.sym} 
+vhdtdtfi -lib work {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp10/Top_FSM/Counter32bitrev.v} -lang verilog -prj Framework -o counter_32_rev.spl -module counter_32_rev -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 counter_32_rev.spl {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp10/Top_FSM/counter_32_rev.sym} 

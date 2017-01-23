@@ -1,0 +1,2 @@
+vhdtdtfi -lib work E:/code/Verilog/FrameWork/GPIO.v -lang verilog -prj FrameWork -o GPIO.spl -module GPIO -template D:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 GPIO.spl E:/code/Verilog/FrameWork/GPIO.sym 

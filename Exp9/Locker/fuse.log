@@ -1,0 +1,27 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Locker/D_EN_D_EN_sch_tb_isim_beh.exe -prj C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Locker/D_EN_D_EN_sch_tb_beh.prj work.D_EN_D_EN_sch_tb work.glbl 
+ISim P.20131013 (signature 0x8ef4fb42)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Locker/RS_NAND.vf" into library work
+Analyzing Verilog file "C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Locker/RS_EN.vf" into library work
+Analyzing Verilog file "C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Locker/D_EN.vf" into library work
+Analyzing Verilog file "C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Locker/D_EN_Test.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 65792 KB
+Fuse CPU Usage: 468 ms
+Compiling module NAND2
+Compiling module RS_NAND_MUSER_D_EN
+Compiling module RS_EN_MUSER_D_EN
+Compiling module INV
+Compiling module D_EN
+Compiling module D_EN_D_EN_sch_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 4 sub-compilation(s) to finish...
+Compiled 7 Verilog Units
+Built simulation executable C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Locker/D_EN_D_EN_sch_tb_isim_beh.exe
+Fuse Memory Usage: 71300 KB
+Fuse CPU Usage: 639 ms

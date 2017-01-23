@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="Framework" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ADC32 C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|ADC32|ADC32.sch</ClosedNode>
+         <ClosedNode>/ADD4b_ADD4b_sch_tb C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|ADC32|ADD4b.v</ClosedNode>
+         <ClosedNode>/ALU C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework_ALU|ALU.v</ClosedNode>
+         <ClosedNode>/ALU C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework|ALU.v</ClosedNode>
+         <ClosedNode>/ALUtest C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework_ALU|ALUtest.v/uut - ALU/ADD_32 - ADC32</ClosedNode>
+         <ClosedNode>/ALUtest C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework_ALU|ALUtest.v/uut - ALU/MUX1 - MUX8T1_32/XLXI_2 - MUX8T1_8</ClosedNode>
+         <ClosedNode>/ALUtest C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework_ALU|ALUtest.v/uut - ALU/MUX1 - MUX8T1_32/XLXI_3 - MUX8T1_8</ClosedNode>
+         <ClosedNode>/ALUtest C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework_ALU|ALUtest.v/uut - ALU/MUX1 - MUX8T1_32/XLXI_4 - MUX8T1_8</ClosedNode>
+         <ClosedNode>/ALUtest C:|Users|CST|Desktop|Exp8|Exp8|Framework_ALU|ALUtest.v</ClosedNode>
+         <ClosedNode>/Display C:|Documents and Settings|Administrator|My Documents|3150102418|Exp7|Framework|Display.sch</ClosedNode>
+         <ClosedNode>/Display C:|Documents and Settings|Administrator|My Documents|3150102418|Exp7|Framework|Display.sch/XLXI_2 - HexTo8Seg</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp10|Top_FSM|Framework.sch/XLXI_16 - Seg7_Dev</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp10|Top_FSM|Framework.sch/XLXI_31 - ALU</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp10|Top_FSM|Framework.sch/XLXI_5 - Display</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp10|Top_FSM|Framework.sch/XLXI_7 - Multi_8CH32</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp10|Top_FSM|Framework.sch/XLXI_8 - GPIO</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp7|Framework|Framework.sch/XLXI_15 - ADC32</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp7|Framework|Framework.sch/XLXI_16 - Seg7_Dev</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp7|Framework|Framework.sch/XLXI_5 - Display</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp7|Framework|Framework.sch/XLXI_5 - Display/XLXI_2 - HexTo8Seg/HTS1 - Hex2Seg</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp7|Framework|Framework.sch/XLXI_5 - Display/XLXI_2 - HexTo8Seg/HTS2 - Hex2Seg</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp7|Framework|Framework.sch/XLXI_5 - Display/XLXI_2 - HexTo8Seg/HTS3 - Hex2Seg</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp7|Framework|Framework.sch/XLXI_5 - Display/XLXI_2 - HexTo8Seg/HTS4 - Hex2Seg</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp7|Framework|Framework.sch/XLXI_5 - Display/XLXI_2 - HexTo8Seg/HTS5 - Hex2Seg</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp7|Framework|Framework.sch/XLXI_5 - Display/XLXI_2 - HexTo8Seg/HTS6 - Hex2Seg</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp7|Framework|Framework.sch/XLXI_5 - Display/XLXI_2 - HexTo8Seg/HTS7 - Hex2Seg</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp7|Framework|Framework.sch/XLXI_7 - Multi_8CH32</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp7|Framework|Framework.sch/XLXI_8 - GPIO</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework_ALU|Framework.sch</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework_ALU|Framework.sch/XLXI_16 - Seg7_Dev</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework_ALU|Framework.sch/XLXI_31 - ALU</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework_ALU|Framework.sch/XLXI_5 - Display</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework_ALU|Framework.sch/XLXI_7 - Multi_8CH32</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework_ALU|Framework.sch/XLXI_8 - GPIO</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework|Framework.sch</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework|Framework.sch/XLXI_15 - ADC32</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework|Framework.sch/XLXI_16 - Seg7_Dev</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework|Framework.sch/XLXI_5 - Display</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework|Framework.sch/XLXI_8 - GPIO</ClosedNode>
+         <ClosedNode>/Framework C:|Users|CST|Desktop|Exp8|Exp8|Framework_ALU|Framework.sch/XLXI_16 - Seg7_Dev</ClosedNode>
+         <ClosedNode>/Framework C:|Users|CST|Desktop|Exp8|Exp8|Framework_ALU|Framework.sch/XLXI_31 - ALU</ClosedNode>
+         <ClosedNode>/Framework C:|Users|CST|Desktop|Exp8|Exp8|Framework_ALU|Framework.sch/XLXI_5 - Display</ClosedNode>
+         <ClosedNode>/Framework C:|Users|CST|Desktop|Exp8|Exp8|Framework_ALU|Framework.sch/XLXI_7 - Multi_8CH32</ClosedNode>
+         <ClosedNode>/Framework C:|Users|CST|Desktop|Exp8|Exp8|Framework_ALU|Framework.sch/XLXI_8 - GPIO</ClosedNode>
+         <ClosedNode>/Framework C:|Users|CST|Desktop|Framework_ALU|Framework.sch/XLXI_16 - Seg7_Dev</ClosedNode>
+         <ClosedNode>/Framework C:|Users|CST|Desktop|Framework_ALU|Framework.sch/XLXI_31 - ALU</ClosedNode>
+         <ClosedNode>/Framework C:|Users|CST|Desktop|Framework_ALU|Framework.sch/XLXI_7 - Multi_8CH32</ClosedNode>
+         <ClosedNode>/Framework C:|Users|CST|Desktop|Framework_ALU|Framework.sch/XLXI_8 - GPIO</ClosedNode>
+         <ClosedNode>/GPIO C:|Documents and Settings|Administrator|My Documents|3150102418|Exp7|Framework|GPIO.v</ClosedNode>
+         <ClosedNode>/HexTo8Seg C:|Documents and Settings|Administrator|My Documents|3150102418|Exp7|Framework|HexTo8Seg.v</ClosedNode>
+         <ClosedNode>/Multi_8CH32 C:|Documents and Settings|Administrator|My Documents|3150102418|Exp7|Framework|Multi_8CH32.v</ClosedNode>
+         <ClosedNode>/Seg7_Dev C:|Documents and Settings|Administrator|My Documents|3150102418|Exp7|Framework|Seg7_Dev.sch</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Framework (C:/Documents and Settings/Administrator/My Documents/3150102418/Exp10/Top_FSM/Framework.sch)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000000e8000000020000000000000000000000000200000064ffffffff000000810000000300000002000000e80000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>Framework (C:/Documents and Settings/Administrator/My Documents/3150102418/Exp10/Top_FSM/Framework.sch)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Design Utilities</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Design Utilities</CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000253000000040101000100000000000000000000000064ffffffff0000008100000000000000040000003d00000001000000000000002400000001000000000000007800000001000000000000017a0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>ADC32.sch</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000121000000010001000100000000000000000000000064ffffffff000000810000000000000001000001210000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Create Schematic Symbol</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Create Schematic Symbol</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_NGC" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000014b000000010000000100000000000000000000000064ffffffff0000008100000000000000010000014b0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_SCHEMATIC" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+         <ClosedNode>Implement Design/Map</ClosedNode>
+         <ClosedNode>Implement Design/Place &amp; Route</ClosedNode>
+         <ClosedNode>Implement Design/Translate</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Map</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000e8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000e80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Map</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000000f5000000f501000000050100000002</SourceProcessView>
+   <CurrentView>Behavioral Simulation</CurrentView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_UCF" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALUtest C:|Documents and Settings|Administrator|My Documents|3150102418|Exp10|Top_FSM|ALU_Test.v</ClosedNode>
+         <ClosedNode>/ALUtest C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework_ALU|ALUtest.v/uut - ALU/ADD_32 - ADC32</ClosedNode>
+         <ClosedNode>/ALUtest C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework_ALU|ALUtest.v/uut - ALU/MUX1 - MUX8T1_32/XLXI_2 - MUX8T1_8</ClosedNode>
+         <ClosedNode>/ALUtest C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework_ALU|ALUtest.v/uut - ALU/MUX1 - MUX8T1_32/XLXI_3 - MUX8T1_8</ClosedNode>
+         <ClosedNode>/ALUtest C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework_ALU|ALUtest.v/uut - ALU/MUX1 - MUX8T1_32/XLXI_4 - MUX8T1_8</ClosedNode>
+         <ClosedNode>/ALUtest C:|Users|CST|Desktop|Exp8|Exp8|Framework_ALU|ALU_sim.v</ClosedNode>
+         <ClosedNode>/ALUtest C:|Users|CST|Desktop|Exp8|Exp8|Framework_ALU|ALUtest.v</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp10|Top_FSM|Framework.sch/XLXI_16 - Seg7_Dev</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp10|Top_FSM|Framework.sch/XLXI_31 - ALU</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp10|Top_FSM|Framework.sch/XLXI_5 - Display</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp10|Top_FSM|Framework.sch/XLXI_7 - Multi_8CH32</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp10|Top_FSM|Framework.sch/XLXI_7 - Multi_8CH32/MUX1_DispData - MUX8T1_32/XLXI_1 - MUX8T1_8</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp10|Top_FSM|Framework.sch/XLXI_7 - Multi_8CH32/MUX1_DispData - MUX8T1_32/XLXI_2 - MUX8T1_8</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp10|Top_FSM|Framework.sch/XLXI_7 - Multi_8CH32/MUX1_DispData - MUX8T1_32/XLXI_3 - MUX8T1_8</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp10|Top_FSM|Framework.sch/XLXI_7 - Multi_8CH32/MUX1_DispData - MUX8T1_32/XLXI_4 - MUX8T1_8</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp10|Top_FSM|Framework.sch/XLXI_7 - Multi_8CH32/MUX2_blink - MUX8T1_8</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp10|Top_FSM|Framework.sch/XLXI_7 - Multi_8CH32/MUX3_point - MUX8T1_8</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp10|Top_FSM|Framework.sch/XLXI_8 - GPIO</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework_ALU|Framework.sch/XLXI_16 - Seg7_Dev</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework_ALU|Framework.sch/XLXI_31 - ALU</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework_ALU|Framework.sch/XLXI_5 - Display</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework_ALU|Framework.sch/XLXI_7 - Multi_8CH32</ClosedNode>
+         <ClosedNode>/Framework C:|Documents and Settings|Administrator|My Documents|3150102418|Exp8|Framework_ALU|Framework.sch/XLXI_8 - GPIO</ClosedNode>
+         <ClosedNode>/Framework C:|Users|CST|Desktop|Exp8|Exp8|Framework_ALU|Framework.sch</ClosedNode>
+         <ClosedNode>/Framework C:|Users|CST|Desktop|Exp8|Exp8|Framework_ALU|Framework.sch/XLXI_16 - Seg7_Dev</ClosedNode>
+         <ClosedNode>/Framework C:|Users|CST|Desktop|Exp8|Exp8|Framework_ALU|Framework.sch/XLXI_31 - ALU</ClosedNode>
+         <ClosedNode>/Framework C:|Users|CST|Desktop|Exp8|Exp8|Framework_ALU|Framework.sch/XLXI_31 - ALU/ADD_32 - ADC32</ClosedNode>
+         <ClosedNode>/Framework C:|Users|CST|Desktop|Exp8|Exp8|Framework_ALU|Framework.sch/XLXI_31 - ALU/MUX1 - MUX8T1_32</ClosedNode>
+         <ClosedNode>/Framework C:|Users|CST|Desktop|Exp8|Exp8|Framework_ALU|Framework.sch/XLXI_5 - Display</ClosedNode>
+         <ClosedNode>/Framework C:|Users|CST|Desktop|Exp8|Exp8|Framework_ALU|Framework.sch/XLXI_7 - Multi_8CH32</ClosedNode>
+         <ClosedNode>/Framework C:|Users|CST|Desktop|Exp8|Exp8|Framework_ALU|Framework.sch/XLXI_8 - GPIO</ClosedNode>
+         <ClosedNode>/counter32rev_Test C:|Documents and Settings|Administrator|My Documents|3150102418|Exp10|Top_FSM|counter32rev_Test.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000000e8000000020000000000000000000000000200000064ffffffff000000810000000300000002000000e80000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>Framework (C:/Documents and Settings/Administrator/My Documents/3150102418/Exp10/Top_FSM/Framework.sch)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>ISim Simulator</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_SCHEMATIC" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>ISim Simulator</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+</Project>

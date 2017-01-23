@@ -1,0 +1,2 @@
+vhdtdtfi -lib work {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp10/FSM/Counter32bitrev.v} -lang verilog -prj FSM -o Counter32bitrev.spl -module Counter32bitrev -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 Counter32bitrev.spl {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp10/FSM/Counter32bitrev.sym} 

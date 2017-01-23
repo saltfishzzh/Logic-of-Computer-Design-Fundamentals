@@ -1,0 +1,4 @@
+vhdtdtfi -lib work {C:/Documents and Settings/Administrator/My Documents/3150102418/MC14495_ZJU138/dispsync.v} -lang verilog -prj MC14495_ZJU138 -o dispsync.spl -module dispsync -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 dispsync.spl {C:/Documents and Settings/Administrator/My Documents/3150102418/MC14495_ZJU138/dispsync.sym} 
+vhdtdtfi -lib work {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp6/MC14495_ZJU138/dispsync.v} -lang verilog -prj MC14495_ZJU138 -o dispsync.spl -module dispsync -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 dispsync.spl {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp6/MC14495_ZJU138/dispsync.sym} 

@@ -1,0 +1,14 @@
+vhdtdtfi -lib work {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/I2Disp/InputT32.v} -lang verilog -prj I2Disp -o InputT32.spl -module InputT32 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 InputT32.spl {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/I2Disp/InputT32.sym} 
+vhdtdtfi -lib work C:/Users/CST/Desktop/Exp7/I2Disp/InputT32.v -lang verilog -prj I2Disp -o InputT32.spl -module InputT32 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 InputT32.spl C:/Users/CST/Desktop/Exp7/I2Disp/InputT32.sym 
+vhdtdtfi -lib work C:/Users/CST/Desktop/Exp7/I2Disp/InputT32.v -lang verilog -prj I2Disp -o InputT32.spl -module InputT32 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 InputT32.spl C:/Users/CST/Desktop/Exp7/I2Disp/InputT32.sym 
+vhdtdtfi -lib work C:/Users/CST/Desktop/Exp7/I2Disp/InputT32.v -lang verilog -prj I2Disp -o InputT32.spl -module InputT32 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 InputT32.spl C:/Users/CST/Desktop/Exp7/I2Disp/InputT32.sym 
+vhdtdtfi -lib work C:/Users/CST/Desktop/Exp7/I2Disp/InputT32.v -lang verilog -prj I2Disp -o InputT32.spl -module InputT32 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 InputT32.spl C:/Users/CST/Desktop/Exp7/I2Disp/InputT32.sym 
+vhdtdtfi -lib work C:/Users/CST/Desktop/Exp7/I2Disp/InputT32.v -lang verilog -prj I2Disp -o InputT32.spl -module InputT32 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 InputT32.spl C:/Users/CST/Desktop/Exp7/I2Disp/InputT32.sym 
+vhdtdtfi -lib work C:/Users/CST/Desktop/Exp7/I2Disp/InputT32.v -lang verilog -prj I2Disp -o InputT32.spl -module InputT32 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 InputT32.spl C:/Users/CST/Desktop/Exp7/I2Disp/InputT32.sym 

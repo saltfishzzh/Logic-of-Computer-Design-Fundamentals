@@ -1,0 +1,7 @@
+net "SW[2]" loc = AA13   	| IOSTANDARD = LVCMOS15;
+net "SW[3]" loc = AA12   	| IOSTANDARD = LVCMOS15;
+
+NET "Buzzer" LOC = AF24      | IOSTANDARD = LVCMOS33 ;
+
+NET "LED[3]" 			LOC = AB25      | IOSTANDARD = LVCMOS33 ;
+NET "LED[4]" 			LOC = AA25      | IOSTANDARD = LVCMOS33 ;

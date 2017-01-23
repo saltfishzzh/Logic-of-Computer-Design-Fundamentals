@@ -1,0 +1,11 @@
+[Inputs]
+point
+LE
+flash
+=Hex[3:0]=
+[Outputs]
+=Segment[7:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel Hex2Seg
+

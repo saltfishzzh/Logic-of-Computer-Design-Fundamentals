@@ -1,0 +1,10 @@
+[Inputs]
+clk
+D
+clear
+Q
+[Outputs]
+[BiDir]
+[ATTRIBUTES]
+VeriModel REGs
+

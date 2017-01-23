@@ -1,0 +1,12 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Wed Nov 30 13:31:04 2016
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "SW<2>" LOCATE = SITE "AA13" LEVEL 1;
+COMP "SW<3>" LOCATE = SITE "AA12" LEVEL 1;
+COMP "Buzzer" LOCATE = SITE "AF24" LEVEL 1;
+COMP "LED<3>" LOCATE = SITE "AB25" LEVEL 1;
+COMP "LED<4>" LOCATE = SITE "AA25" LEVEL 1;
+SCHEMATIC END;
+

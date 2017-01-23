@@ -1,0 +1,28 @@
+Command line:
+   HCT138sch_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51761
+
+Wed Nov 02 15:10:38 2016
+
+
+ Elaboration Time: 0.359375 sec
+
+ Current Memory Usage: 1501.87 Meg
+
+ Total Signals          : 130
+ Total Nets             : 45
+ Total Signal Drivers   : 31
+ Total Blocks           : 29
+ Total Primitive Blocks : 27
+ Total Processes        : 32
+ Total Traceable Variables  : 18
+ Total Scalar Nets and Variables : 125
+
+ Total Simulation Time: 0.375 sec
+
+ Current Memory Usage: 1501.87 Meg
+
+Wed Nov 02 15:10:45 2016
+

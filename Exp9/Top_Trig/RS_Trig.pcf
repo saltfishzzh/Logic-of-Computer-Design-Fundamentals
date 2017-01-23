@@ -1,0 +1,15 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Tue Nov 29 10:24:45 2016
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "SW<1>" LOCATE = SITE "AB10" LEVEL 1;
+COMP "LED<0>" LOCATE = SITE "AB26" LEVEL 1;
+COMP "LED<1>" LOCATE = SITE "W24" LEVEL 1;
+COMP "LED<2>" LOCATE = SITE "W23" LEVEL 1;
+COMP "clk_100mhz" LOCATE = SITE "AC18" LEVEL 1;
+COMP "SW<0>" LOCATE = SITE "AA10" LEVEL 1;
+TIMEGRP TM_CLK = BEL "LED<2>" BEL "LED<1>" BEL "LED<0>";
+TS_CLK_100M = PERIOD TIMEGRP "TM_CLK" 10 ns HIGH 50%;
+SCHEMATIC END;
+

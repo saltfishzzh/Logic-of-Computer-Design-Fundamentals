@@ -1,0 +1,4 @@
+vhdtdtfi -lib work {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/I2Disp/dispsync.v} -lang verilog -prj I2Disp -o dispsync.spl -module dispsync -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 dispsync.spl {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/I2Disp/dispsync.sym} 
+vhdtdtfi -lib work C:/Users/CST/Desktop/Exp7/I2Disp/dispsync.v -lang verilog -prj I2Disp -o dispsync.spl -module dispsync -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 dispsync.spl C:/Users/CST/Desktop/Exp7/I2Disp/dispsync.sym 

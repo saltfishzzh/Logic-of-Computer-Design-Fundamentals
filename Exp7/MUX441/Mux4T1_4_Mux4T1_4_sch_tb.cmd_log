@@ -1,0 +1,2 @@
+vhdtdtfi -lib work {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/MUX441/MUX4T1_4.v} -lang verilog -prj MUX441 -o Mux4T1_4_Mux4T1_4_sch_tb.spl -module Mux4T1_4_Mux4T1_4_sch_tb -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 Mux4T1_4_Mux4T1_4_sch_tb.spl {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp7/MUX441/Mux4T1_4_Mux4T1_4_sch_tb.sym} 

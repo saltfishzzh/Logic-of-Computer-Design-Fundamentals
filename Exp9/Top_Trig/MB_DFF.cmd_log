@@ -1,0 +1,2 @@
+sch2hdl -intstyle ise -family kintex7 -verilog MB_DFF_drc.vf -w {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Trig3/MB_DFF.sch} 
+sch2sym -intstyle ise -family kintex7 -refsym MB_DFF {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Trig3/MB_DFF.sch} {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Trig3/MB_DFF.sym} 

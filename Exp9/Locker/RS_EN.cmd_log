@@ -1,0 +1,2 @@
+sch2hdl -intstyle ise -family kintex7 -verilog RS_EN_drc.vf -w {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Locker/RS_EN.sch} 
+sch2sym -intstyle ise -family kintex7 -refsym RS_EN {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Locker/RS_EN.sch} {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Locker/RS_EN.sym} 

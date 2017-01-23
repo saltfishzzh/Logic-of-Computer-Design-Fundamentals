@@ -1,0 +1,10 @@
+[Inputs]
+s
+=a[63:0]=
+=b[63:0]=
+[Outputs]
+=y[63:0]=
+[BiDir]
+[ATTRIBUTES]
+VeriModel Mux_6421
+

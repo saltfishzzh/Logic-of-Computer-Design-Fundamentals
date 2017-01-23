@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Documents and Settings\Administrator\My Documents\3150102418\D_74LS138_SCH\HCT138_sch.ncd
+OUTFILE=C:\Documents and Settings\Administrator\My Documents\3150102418\D_74LS138_SCH\HCT138_sch.bit
+FAMILY=Kintex7
+PART=xc7k160t-2lffg676
+WORKINGDIR=C:\Documents and Settings\Administrator\My Documents\3150102418\D_74LS138_SCH
+LICENSE=ISE
+USER_INFO=_

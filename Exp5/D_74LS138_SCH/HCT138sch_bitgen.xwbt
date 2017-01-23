@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\laylalaisy\Desktop\5\D_74LS138_SCH\HCT138sch.ncd
+OUTFILE=C:\Users\laylalaisy\Desktop\5\D_74LS138_SCH\HCT138sch.bit
+FAMILY=Kintex7
+PART=xc7k160t-1ffg676
+WORKINGDIR=C:\Users\laylalaisy\Desktop\5\D_74LS138_SCH
+LICENSE=WebPack
+USER_INFO=__0_0_0

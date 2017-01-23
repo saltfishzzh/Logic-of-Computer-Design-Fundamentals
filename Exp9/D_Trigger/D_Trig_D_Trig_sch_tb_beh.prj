@@ -1,0 +1,6 @@
+verilog work "RS_NAND.vf"
+verilog work "RS_EN.vf"
+verilog work "D_EN.vf"
+verilog work "D_Trig.vf"
+verilog work "D_Trig_Test.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

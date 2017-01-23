@@ -1,0 +1,2 @@
+sch2hdl -intstyle ise -family kintex7 -verilog D_Trig_drc.vf -w C:/Users/CST/Desktop/Exp9/D_Trigger/D_Trig.sch 
+sch2sym -intstyle ise -family kintex7 -refsym D_Trig C:/Users/CST/Desktop/Exp9/D_Trigger/D_Trig.sch C:/Users/CST/Desktop/Exp9/D_Trigger/D_Trig.sym 

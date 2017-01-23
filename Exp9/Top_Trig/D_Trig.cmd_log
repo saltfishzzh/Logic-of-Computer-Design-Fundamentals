@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Trig2/D_Trig.xst" -ofn "C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Trig2/D_Trig.syr" 
+sch2hdl -intstyle ise -family kintex7 -verilog D_Trig_drc.vf -w {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Trig3/D_Trig.sch} 
+sch2sym -intstyle ise -family kintex7 -refsym D_Trig {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Trig3/D_Trig.sch} {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Trig3/D_Trig.sym} 
+sch2hdl -intstyle ise -family kintex7 -verilog D_Trig_drc.vf -w {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Trig3/D_Trig.sch} 
+sch2sym -intstyle ise -family kintex7 -refsym D_Trig {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Trig3/D_Trig.sch} {C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Trig3/D_Trig.sym} 

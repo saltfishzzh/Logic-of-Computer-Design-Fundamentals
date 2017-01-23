@@ -1,0 +1,4 @@
+verilog work "D_74LS138.vf"
+verilog work "HCT138_sch.vf"
+verilog work "Decoder_test.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

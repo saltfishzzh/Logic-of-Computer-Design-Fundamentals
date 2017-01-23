@@ -1,0 +1,14 @@
+// Verilog instantiation template created from schematic C:\Documents and Settings\Administrator\My Documents\3150102418\MC14495_ZJU138\Hex427Seg_sch.sch - Tue Nov 08 14:27:00 2016
+//
+// Notes: 
+// To use this template to instantiate this component,cut-and-paste and then edit
+//
+// Instantiate the UUT
+   Hex427Seg_sch UUT (
+		.SW(    ), 
+		.SEGMENT(    ), 
+		.XLXN_22(    ), 
+		.clk_100mhz(    ), 
+		.RSTN(    ), 
+		.Buzzer(    )
+   );

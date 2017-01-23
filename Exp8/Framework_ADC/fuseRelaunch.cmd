@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/CST/Desktop/Exp8/Exp8/Framework_ADC/ADC32_ADC32_sch_tb_isim_beh.exe" -prj "C:/Users/CST/Desktop/Exp8/Exp8/Framework_ADC/ADC32_ADC32_sch_tb_beh.prj" "work.ADC32_ADC32_sch_tb" "work.glbl" 

@@ -1,0 +1,8 @@
+vhdtdtfi -lib work E:/code/Verilog/FrameWork/SSeg_7withGraph.v -lang verilog -prj FrameWork -o SSeg_7withGraph.spl -module SSeg_7withGraph -template D:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 SSeg_7withGraph.spl E:/code/Verilog/FrameWork/SSeg_7withGraph.sym 
+vhdtdtfi -lib work E:/code/Verilog/FrameWork/SSeg_7withGraph.v -lang verilog -prj FrameWork -o SSeg_7withGraph.spl -module SSeg_7withGraph -template D:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 SSeg_7withGraph.spl E:/code/Verilog/FrameWork/SSeg_7withGraph.sym 
+vhdtdtfi -lib work E:/code/Verilog/FrameWork/SSeg_7withGraph.v -lang verilog -prj FrameWork -o SSeg_7withGraph.spl -module SSeg_7withGraph -template D:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 SSeg_7withGraph.spl E:/code/Verilog/FrameWork/SSeg_7withGraph.sym 
+vhdtdtfi -lib work E:/code/Verilog/FrameWork/SSeg_7withGraph.v -lang verilog -prj FrameWork -o SSeg_7withGraph.spl -module SSeg_7withGraph -template D:/ISE/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 SSeg_7withGraph.spl E:/code/Verilog/FrameWork/SSeg_7withGraph.sym 

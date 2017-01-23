@@ -1,0 +1,12 @@
+xst -intstyle ise -ifn "C:/Users/CST/Desktop/Exp9/D_Trigger/Top_D_Trig.xst" -ofn "C:/Users/CST/Desktop/Exp9/D_Trigger/Top_D_Trig.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc k7.ucf -p xc7k160t-ffg676-2L Top_D_Trig.ngc Top_D_Trig.ngd  
+map -intstyle ise -p xc7k160t-ffg676-2L -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_D_Trig_map.ncd Top_D_Trig.ngd Top_D_Trig.pcf 
+par -w -intstyle ise -ol high -mt off Top_D_Trig_map.ncd Top_D_Trig.ncd Top_D_Trig.pcf 
+trce -intstyle ise -v 3 -s 2L -n 3 -fastpaths -xml Top_D_Trig.twx Top_D_Trig.ncd -o Top_D_Trig.twr Top_D_Trig.pcf -ucf k7.ucf 
+bitgen -intstyle ise -f Top_D_Trig.ut Top_D_Trig.ncd 
+xst -intstyle ise -ifn "C:/Users/CST/Desktop/Exp9/D_Trigger/Top_D_Trig.xst" -ofn "C:/Users/CST/Desktop/Exp9/D_Trigger/Top_D_Trig.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc k7.ucf -p xc7k160t-ffg676-2L Top_D_Trig.ngc Top_D_Trig.ngd  
+map -intstyle ise -p xc7k160t-ffg676-2L -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Top_D_Trig_map.ncd Top_D_Trig.ngd Top_D_Trig.pcf 
+par -w -intstyle ise -ol high -mt off Top_D_Trig_map.ncd Top_D_Trig.ncd Top_D_Trig.pcf 
+trce -intstyle ise -v 3 -s 2L -n 3 -fastpaths -xml Top_D_Trig.twx Top_D_Trig.ncd -o Top_D_Trig.twr Top_D_Trig.pcf -ucf k7.ucf 
+bitgen -intstyle ise -f Top_D_Trig.ut Top_D_Trig.ncd 

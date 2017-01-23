@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Locker/D_EN_D_EN_sch_tb_isim_beh.exe" -prj "C:/Documents and Settings/Administrator/My Documents/3150102418/Exp9/Locker/D_EN_D_EN_sch_tb_beh.prj" "work.D_EN_D_EN_sch_tb" "work.glbl" 

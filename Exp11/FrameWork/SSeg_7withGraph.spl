@@ -1,0 +1,18 @@
+[Inputs]
+clk
+SW0
+flash
+rst
+Start
+=Hexs[31:0]=
+=LES[7:0]=
+=point[7:0]=
+[Outputs]
+seg_clk
+seg_clrn
+SEG_PEN
+seg_sout
+[BiDir]
+[ATTRIBUTES]
+VeriModel SSeg_7withGraph
+

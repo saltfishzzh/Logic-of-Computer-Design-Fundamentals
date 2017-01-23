@@ -1,0 +1,10 @@
+Command line:
+   DM74LS194_DM74LS194_sch_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  1391
+
+Tue Dec 27 22:15:45 2016
+
+
+ Elaboration Time: 0.21875 sec

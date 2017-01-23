@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Documents and Settings/Administrator/My Documents/3150102418/Exp8/Framework_ALU/ALUtest_isim_beh.exe" -prj "C:/Documents and Settings/Administrator/My Documents/3150102418/Exp8/Framework_ALU/ALUtest_beh.prj" "work.ALUtest" "work.glbl" 

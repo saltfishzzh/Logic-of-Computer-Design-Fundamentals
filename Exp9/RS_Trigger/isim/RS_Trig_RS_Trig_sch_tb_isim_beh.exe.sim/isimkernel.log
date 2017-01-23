@@ -1,0 +1,28 @@
+Command line:
+   RS_Trig_RS_Trig_sch_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  2225
+
+Wed Nov 30 23:16:46 2016
+
+
+ Elaboration Time: 0.109375 sec
+
+ Current Memory Usage: 335.774 Meg
+
+ Total Signals          : 77
+ Total Nets             : 30
+ Total Signal Drivers   : 22
+ Total Blocks           : 16
+ Total Primitive Blocks : 10
+ Total Processes        : 25
+ Total Traceable Variables  : 22
+ Total Scalar Nets and Variables : 145
+
+ Total Simulation Time: 0.125 sec
+
+ Current Memory Usage: 335.774 Meg
+
+Wed Nov 30 23:17:30 2016
+
